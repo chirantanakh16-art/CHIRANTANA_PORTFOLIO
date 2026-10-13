@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../My Personal Portfolio/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CHIRANTANA-PORTFOLIO"
+	}
+}
